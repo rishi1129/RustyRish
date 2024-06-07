@@ -1,1 +1,1 @@
-# RustyRish
+# RishiRust
